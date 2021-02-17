@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="nameID">Name :</string>
+    <string name="txtName">E.g. : Douglas Lim</string>
+    <string name="btnEnter">Enter</string>
+    <string name="welcomeID">Welcome</string>
+    <string name="weightID">Weight (KG) :</string>
+    <string name="heightID">Height (M) :</string>
+    <string name="txtWeight">Weight in kilograms</string>
+    <string name="txtHeight">Height in meters</string>
+    <string name="btnCalculate">Calculate</string>
+    <string name="tvName">TextView</string>
+    <string name="textview">TextView</string>
+    <string name="status">Status :</string>
+</resources>
